@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chenkai-Wang.
+- 👋 Hi, I’m @Chenkai-Wang, a senior student major in statistics.
 - 👀 I’m interested in statistics and machine learning. But now I have to prepare for the postgraduate entrance exam.
 - 🌱 I’m currently learning 'An introduction to statistical learning'[1] and machine learning.[2]
 - 📫 How to reach me: Feel free to contact me by 11710619@mail.sustech.edu.cn
